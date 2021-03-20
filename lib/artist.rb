@@ -1,5 +1,6 @@
 require 'pry'
 
+
 class Artist
   extend Memorable::ClassInstances
   extend Findable::ClassInstances
